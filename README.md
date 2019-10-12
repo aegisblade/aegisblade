@@ -8,9 +8,12 @@
   <h3 align="center">AegisBlade Issue Tracking</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/pypi/v/aegisblade" alt="pypi version" />
-    <img src="https://img.shields.io/pypi/pyversions/aegisblade" alt="supported python versions" />
-    <img src="https://img.shields.io/github/license/aegisblade/aegis-python" alt="license">
+    <a href="https://pypi.org/project/aegisblade/">
+        <img src="https://img.shields.io/pypi/v/aegisblade" alt="aegisblade package pypi version" />
+    </a>
+    <a href="https://www.npmjs.com/package/aegisblade">
+        <img src="https://img.shields.io/npm/v/aegisblade" alt="aegisblade package npm version" />
+    </a>
   </p>
 
   <p align="center">
